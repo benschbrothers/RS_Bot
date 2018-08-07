@@ -22,8 +22,8 @@ using System.IO;
 
 //###########################################
 //#                                         #
-//#     BotV3 By Chris & Oli                #
-//#     CP by OCBE                          #
+//#     BotV3 By Chris                      #
+//#     CP by TaskManager91                 #
 //#                                         #
 //###########################################
 
